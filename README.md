@@ -41,7 +41,7 @@ The cli sets up the following for AgentGPT:
 - 🗂️ [Database](https://github.com/reworkd/AgentGPT/tree/main/db) (Mysql)
 - 🤖 [Backend](https://github.com/reworkd/AgentGPT/tree/main/platform) (FastAPI)
 - 🎨 [Frontend](https://github.com/reworkd/AgentGPT/tree/main/next) (Nextjs)
-
+ 
 ## Prerequisites :point_up:
 
 Before you get started, please make sure you have the following installed:
